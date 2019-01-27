@@ -286,7 +286,7 @@ public class AppXDQ {
 		
 		//	11.6- Déplacer le rat noir sur la case (1,1)
 		//			Si le déplacement a été réalisé avec succès, afficher le message "Rat noir déplacé."
-		//			Si le déplacement n'a pu être réalisé, afficher le message "Rat blanc non déplacé."
+		//			Si le déplacement n'a pu être réalisé, afficher le message "Rat noir non déplacé."
 		// VOTRE CODE ICI		
 
 		System.out.println( "11.7" ) ;
