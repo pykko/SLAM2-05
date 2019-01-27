@@ -107,15 +107,48 @@ Un pion peut se déplacer sur une case :
 - case55 : 5 , 5 , null
 - case65 : 6 , 5 , loupBlanc
 
+### Question 10 - Déplacer le loup blanc sur la case (7,5)
+#### Question 10.3
+- panthereNoire : 5 , Panthère , false , joueurNoir
+- case75 : 7 , 5 , panthereNoire
 
+#### Question 10.4
+- Loup blanc non déplacé
 
+#### Question 10.5
+- panthereNoire : 5 , Panthère , false , joueurNoir
+- loupBlanc : 3 , Loup , faise , joueurBlanc
+- case65 : 6 , 5 , loupBlanc
+- case75 ; 7 , 5 , panthereNoire
 
+### Question 11 - Le rat noir attaque l'éléphant blanc
+#### Question 11.5
+- elephantBlanc : 8 , Éléphant , false , joueurBlanc
+- ratNoir : 1 , Rat , false , joueurNoir
+- case11 : 1 , 1 , elephantBlanc
+- case12 : 1 , 2 , ratNoir
 
+#### Question 11.6
+- Rat noir déplacé
 
+#### Question 11.7
+- elephantBlanc : 8 , Éléphant , true , joueurBlanc
+- ratNoir : 1 , Rat , false , joueurNoir
+- case11 : 1 , 1 , ratNoir
+- case12 : 1 , 2 , null
 
+### Question 12 - L'éléphant noir attaque le rat blanc
+#### Question 12.5
+- elephantNoir : 8 , Éléphant , false , joueurNoir
+- ratBlanc : 1 , Rat , false , joueurBlanc
+- case91 : 9 , 1 , elephantNoir
+- case92 : 9 , 2 , ratBlanc
 
+#### Question 12.6
+- Éléphant noir déplacé
 
-
-
-
-
+#### Question 12.7
+- elephantNoir : 8 , Éléphant , false , joueurNoir
+- ratBlanc : 1 , Rat , true , joueurBlanc
+- case91 : 9 , 1 , null
+- case92 : 9 , 2 , elephantNoir
