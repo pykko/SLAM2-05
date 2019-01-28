@@ -22,7 +22,7 @@ public class AppXDQ {
 		//			Joueuse référencée par la variable joueurBlanc
 		// VOTRE CODE ICI
 		
-		//	1.2- Créer la joueuse Mélissa qui a choisir le camp des Noirs
+		//	1.2- Créer la joueuse Ilona qui a choisi le camp des Noirs
 		//			Joueuse référencée par la variable joueurNoir
 		// VOTRE CODE ICI
 		
