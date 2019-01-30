@@ -51,15 +51,18 @@ Un pion peut se déplacer sur une case :
 - Loup
 
 #### Question 5.4
-- false
+- 3
 
 #### Question 5.5
-- Latifa , Blanc
+- false
 
 #### Question 5.6
-- Latifa
+- Latifa , Blanc
 
 #### Question 5.7
+- Latifa
+
+#### Question 5.8
 - Blanc
 
 ### Question 6 - Déplacer le tigre noir sur la case (5,5)
